@@ -1,5 +1,5 @@
  Real-Time Object Detection System
-📌 Project Overview
+ Project Overview
 
 This project implements a Real-Time Object Detection System using computer vision and deep learning techniques. The system detects and classifies multiple objects from a live camera feed and displays bounding boxes with labels and confidence scores instantly.
 
